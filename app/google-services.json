@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816601677580",
+    "project_id": "libersumma",
+    "storage_bucket": "libersumma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816601677580:android:d4b385ae5e321ab7685329",
+        "android_client_info": {
+          "package_name": "com.example.project_libersumma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816601677580-rjp47mlt0poppivh1f5k70ipke1ecrdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_libersumma",
+            "certificate_hash": "5ae8dbb0e349ca186ea5214b5588f19c78ccf51e"
+          }
+        },
+        {
+          "client_id": "816601677580-asovl3rc413jpbp83qtcsvl1bl94pdi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKCaI-BbVw0yZ7NktoVntjUGXY1J7mfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816601677580-asovl3rc413jpbp83qtcsvl1bl94pdi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
