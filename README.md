@@ -24,6 +24,7 @@ By clicking description button on book info page, you can add your notes or othe
 ![your_notes](https://github.com/Marcinsky/Project_libersumma/assets/140274974/2942d439-3d08-48aa-8043-240bb8c616bd)
 ### Note info 
 After clicking plus button in the right corner, an add note page will open. 
+
 ![book_info](https://github.com/Marcinsky/Project_libersumma/assets/140274974/293ecc6b-cf42-4118-bb26-34dca155f477)
-Every note is sorted by date from latest to oldest. 
+### Every note is sorted by date from latest to oldest. 
 ### It was really fun to create this project basically beacause, I love reading books so, a project for my personal use. 
